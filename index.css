@@ -1,0 +1,164 @@
+
+.post1{
+    width: 300px;
+    height: 550px;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+      /* ẩn nội dung bị tràn  */
+    overflow: hidden;
+    position:  absolute;
+    top: 20px;
+
+  
+}
+/* nhập chuột vào nó sẽ sáng hơn bth */
+.post1:hover{
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.8 );
+
+}
+.post1-link{
+      /* giới hạn độ rộng = kích thước pt cho */
+    max-width: 120%;
+  /* xóa bỏ khoảng trắng chắn dòng của ảnh  */
+    vertical-align: middle;
+    
+    
+}
+.post1-title{
+    padding-right: 20px;
+    padding-left: 20px;
+    /* thêm khoảng cách từ văn bản ra viền */
+   
+
+}
+.post1-information{
+    padding-left: 10px;
+    padding-top: 3px;
+
+}
+.post1-button {
+  box-shadow: 0 0 5px ;
+  background-color:  blue;
+  color:  white;
+  text-align: center;
+  width: 260px;
+  height: 40px ;
+  /* bo tròn box */
+  border-radius: 10px;
+  text-align:  center;
+}
+.post1-box{
+  vertical-align:  middle;
+  padding: 20px;
+ 
+}
+
+.post2{
+  width: 300px;
+  height: 550px;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+    /* ẩn nội dung bị tràn  */
+  overflow: hidden;
+  position: absolute;
+  left: 340px;
+  top: 20px
+
+
+}
+/* nhập chuột vào nó sẽ sáng hơn bth */
+.post2:hover{
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.8 );
+
+}
+.post2-link{
+    /* giới hạn độ rộng = kích thước pt cho */
+  max-width: 120%;
+/* xóa bỏ khoảng trắng chắn dòng của ảnh  */
+  vertical-align: middle;
+  
+  
+}
+.post2-title{
+  padding-right: 20px;
+  padding-left: 20px;
+  /* thêm khoảng cách từ văn bản ra viền */
+  
+
+}
+.post2-information{
+  padding-left: 10px;
+  padding-top: 20px;
+
+}
+.post2-button {
+box-shadow: 0 0 6px ;
+background-color:  blue;
+color:  white;
+text-align: center;
+width: 260px;
+height: 40px ;
+/* bo tròn box */
+border-radius: 10px;
+text-align:  center;
+}
+.post2-box{
+vertical-align:  middle;
+padding: 20px;
+
+}
+.post3{
+  width: 300px;
+  height: 550px;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.2);
+  /* bo tròn góc */
+  border-radius: 5px;
+    /* ẩn nội dung bị tràn  */
+  overflow: hidden;
+  position: absolute;
+  left: 680px;
+  top: 20px
+
+
+}
+/* nhập chuột vào nó sẽ sáng hơn bth */
+.post3:hover{
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.8 );
+
+}
+.post3-link{
+    /* giới hạn độ rộng = kích thước pt cho */
+  max-width: 100%;
+/* xóa bỏ khoảng trắng chắn dòng của ảnh  */
+  vertical-align: middle;
+  
+  
+}
+.post3-title{
+  padding-right: 20px;
+  padding-left: 20px;
+  /* thêm khoảng cách từ văn bản ra viền */
+  
+
+}
+.post3-information{
+  padding-left: 10px;
+  padding-top: 20px;
+
+}
+.post3-button {
+box-shadow: 0 0 6px ;
+background-color:  blue;
+color:  white;
+text-align: center;
+width: 260px;
+height: 40px ;
+/* bo tròn box */
+border-radius: 10px;
+text-align:  center;
+}
+.post3-box{
+vertical-align:  middle;
+padding: 20px;
+
+}
